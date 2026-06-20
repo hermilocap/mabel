@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#1A1A1A" rx="16"/>
+  <!-- Gum sole -->
+  <ellipse cx="200" cy="222" rx="170" ry="24" fill="#C8955A" stroke="#B8854A" stroke-width="1.5"/>
+  <!-- Midsole white -->
+  <path d="M42 205 Q52 190 80 186 L318 186 Q356 186 364 204 Z" fill="#F5F5F0" stroke="#E0E0DC" stroke-width="1"/>
+  <!-- Upper black -->
+  <path d="M68 186 Q76 130 122 114 L278 108 Q336 108 348 138 L356 186 Z" fill="#111111" stroke="#2A2A2A" stroke-width="2"/>
+  <!-- Toe box shape -->
+  <path d="M68 186 Q62 152 88 128 Q110 112 138 116 L155 115 Q122 140 106 168 L88 186 Z" fill="#0A0A0A" stroke="#1A1A1A" stroke-width="1.5"/>
+  <!-- White 3 stripes -->
+  <line x1="175" y1="120" x2="135" y2="182" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  <line x1="200" y1="116" x2="162" y2="180" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  <line x1="225" y1="114" x2="190" y2="178" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  <!-- Lace area -->
+  <rect x="152" y="118" width="115" height="45" rx="3" fill="#1E1E1E" stroke="#2A2A2A" stroke-width="1"/>
+  <line x1="165" y1="126" x2="254" y2="126" stroke="#555555" stroke-width="2" stroke-dasharray="7,5"/>
+  <line x1="165" y1="134" x2="254" y2="134" stroke="#555555" stroke-width="2" stroke-dasharray="7,5"/>
+  <line x1="165" y1="142" x2="254" y2="142" stroke="#555555" stroke-width="2" stroke-dasharray="7,5"/>
+  <line x1="165" y1="150" x2="254" y2="150" stroke="#555555" stroke-width="2" stroke-dasharray="7,5"/>
+  <!-- Collar -->
+  <path d="M152 118 Q148 103 151 93 Q156 86 165 88 Q173 91 168 105 L163 118Z" fill="#0A0A0A" stroke="#2A2A2A" stroke-width="1.5"/>
+  <!-- Adidas wordmark area -->
+  <text x="300" y="170" font-family="Arial,sans-serif" font-size="12" fill="#555555" text-anchor="middle" letter-spacing="2">samba</text>
+  <!-- GUM label -->
+  <text x="200" y="240" font-family="system-ui" font-size="10" fill="#C8955A" text-anchor="middle" letter-spacing="3">GUM SOLE · BLACK/WHITE</text>
+</svg>

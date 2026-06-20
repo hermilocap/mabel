@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#EAEBF0" rx="16"/>
+  <!-- Sole chunky -->
+  <ellipse cx="200" cy="222" rx="172" ry="26" fill="#C8C9CE" stroke="#B8B9BE" stroke-width="1.5"/>
+  <!-- Midsole thick -->
+  <path d="M38 200 Q48 178 82 174 L318 174 Q358 174 368 198 Z" fill="#D8D9DE" stroke="#C5C6CB" stroke-width="1"/>
+  <!-- Second midsole layer -->
+  <path d="M50 200 Q58 190 82 188 L318 188 Q355 188 362 200 Z" fill="#E2E3E8" stroke="#D0D1D6" stroke-width="1"/>
+  <!-- Upper body -->
+  <path d="M68 188 Q78 128 125 112 L275 106 Q338 106 350 138 L358 188 Z" fill="#9BA0A8" stroke="#888D95" stroke-width="2"/>
+  <!-- Suede overlay panels -->
+  <path d="M68 188 Q63 152 90 128 Q112 112 142 115 L160 114 Q125 142 108 170 L88 188 Z" fill="#7A8090" stroke="#6A7080" stroke-width="1.5"/>
+  <path d="M240 108 Q290 110 340 138 L350 165 Q310 145 262 130 Z" fill="#7A8090" stroke="#6A7080" stroke-width="1.5"/>
+  <!-- N logo -->
+  <text x="218" y="160" font-family="Arial Black,sans-serif" font-size="52" font-weight="900" fill="#5C6170" opacity="0.85">N</text>
+  <!-- Lace area -->
+  <rect x="155" y="116" width="108" height="44" rx="3" fill="#B0B5BC" stroke="#9BA0A8" stroke-width="1"/>
+  <line x1="168" y1="123" x2="250" y2="123" stroke="#888D95" stroke-width="2" stroke-dasharray="7,5"/>
+  <line x1="168" y1="131" x2="250" y2="131" stroke="#888D95" stroke-width="2" stroke-dasharray="7,5"/>
+  <line x1="168" y1="139" x2="250" y2="139" stroke="#888D95" stroke-width="2" stroke-dasharray="7,5"/>
+  <line x1="168" y1="147" x2="250" y2="147" stroke="#888D95" stroke-width="2" stroke-dasharray="7,5"/>
+  <!-- Collar -->
+  <path d="M155 116 Q150 102 153 92 Q158 85 167 87 Q175 90 170 104 L165 116Z" fill="#9BA0A8" stroke="#888D95" stroke-width="1.5"/>
+  <!-- Made in USA badge -->
+  <rect x="118" y="228" width="164" height="18" rx="4" fill="#1A2340" opacity="0.7"/>
+  <text x="200" y="241" font-family="system-ui" font-size="10" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">MADE IN USA · 990v5</text>
+</svg>

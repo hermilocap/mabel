@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#F5F5F0" rx="16"/>
+  <!-- Sole -->
+  <ellipse cx="200" cy="220" rx="175" ry="28" fill="#E8E8E2" stroke="#DDDDD6" stroke-width="1.5"/>
+  <!-- Midsole -->
+  <path d="M40 200 Q50 185 80 182 L320 182 Q360 182 368 200 Z" fill="#EFEFEB" stroke="#DDDDD6" stroke-width="1"/>
+  <!-- Upper body -->
+  <path d="M65 182 Q75 130 120 115 L280 108 Q340 108 355 140 L362 182 Z" fill="#FFFFFF" stroke="#E0E0D8" stroke-width="2"/>
+  <!-- Toe box -->
+  <path d="M65 182 Q60 155 85 130 Q105 115 130 118 L160 116 Q130 140 110 165 L90 182 Z" fill="#F8F8F4" stroke="#E0E0D8" stroke-width="1.5"/>
+  <!-- Nike Swoosh -->
+  <path d="M140 160 Q180 130 300 138 Q270 152 200 158 Q165 162 140 160Z" fill="#E8E8E2" stroke="#D0D0C8" stroke-width="1"/>
+  <!-- Lace area -->
+  <rect x="150" y="118" width="120" height="45" rx="4" fill="#F0F0EC" stroke="#E0E0D8" stroke-width="1"/>
+  <!-- Laces -->
+  <line x1="165" y1="125" x2="255" y2="125" stroke="#D8D8D2" stroke-width="2" stroke-dasharray="8,6"/>
+  <line x1="165" y1="133" x2="255" y2="133" stroke="#D8D8D2" stroke-width="2" stroke-dasharray="8,6"/>
+  <line x1="165" y1="141" x2="255" y2="141" stroke="#D8D8D2" stroke-width="2" stroke-dasharray="8,6"/>
+  <line x1="165" y1="149" x2="255" y2="149" stroke="#D8D8D2" stroke-width="2" stroke-dasharray="8,6"/>
+  <!-- Collar -->
+  <path d="M150 118 Q145 105 148 95 Q152 88 162 90 Q170 92 165 105 L160 118Z" fill="#F8F8F4" stroke="#E0E0D8" stroke-width="1.5"/>
+  <!-- AF1 text -->
+  <text x="200" y="230" font-family="system-ui" font-size="11" fill="#AAAAAA" text-anchor="middle" letter-spacing="3">AIR FORCE 1</text>
+</svg>

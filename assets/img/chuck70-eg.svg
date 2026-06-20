@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#F0EDE6" rx="16"/>
+  <!-- Sole vulcanized black -->
+  <ellipse cx="200" cy="222" rx="168" ry="24" fill="#1A1A1A" stroke="#0A0A0A" stroke-width="1.5"/>
+  <!-- White rubber edge -->
+  <path d="M42 208 Q52 192 80 188 L318 188 Q355 188 362 206 Z" fill="#F5F5F0" stroke="#E0E0DC" stroke-width="1"/>
+  <path d="M42 208 Q52 200 80 198 L318 198 Q355 198 362 208 Z" fill="#2A2A2A" stroke="#1A1A1A" stroke-width="0.5"/>
+  <!-- High top canvas upper egret/cream -->
+  <path d="M70 198 Q78 100 128 72 L220 65 L282 70 Q335 80 348 130 L354 198 Z" fill="#EDE9DE" stroke="#DDD9CE" stroke-width="2"/>
+  <!-- Toe rubber cap black -->
+  <path d="M70 198 Q64 155 92 125 Q115 105 145 108 L155 107 Q118 138 108 172 L88 198Z" fill="#1A1A1A" stroke="#0A0A0A" stroke-width="1.5"/>
+  <!-- Ankle padding black -->
+  <rect x="148" y="65" width="80" height="32" rx="16" fill="#1A1A1A" stroke="#0A0A0A" stroke-width="1.5"/>
+  <!-- Star patch -->
+  <circle cx="188" cy="81" r="14" fill="#F5F5F0" stroke="#E0E0DC" stroke-width="1.5"/>
+  <text x="188" y="86" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="#1A1A1A" text-anchor="middle">★</text>
+  <!-- Lace area -->
+  <rect x="152" y="106" width="110" height="80" rx="3" fill="#E5E1D5" stroke="#D5D1C5" stroke-width="1"/>
+  <line x1="165" y1="115" x2="248" y2="115" stroke="#C0BC B0" stroke-width="2" stroke-dasharray="7,5"/>
+  <line x1="165" y1="125" x2="248" y2="125" stroke="#C0BCB0" stroke-width="2" stroke-dasharray="7,5"/>
+  <line x1="165" y1="135" x2="248" y2="135" stroke="#C0BCB0" stroke-width="2" stroke-dasharray="7,5"/>
+  <line x1="165" y1="145" x2="248" y2="145" stroke="#C0BCB0" stroke-width="2" stroke-dasharray="7,5"/>
+  <line x1="165" y1="155" x2="248" y2="155" stroke="#C0BCB0" stroke-width="2" stroke-dasharray="7,5"/>
+  <line x1="165" y1="165" x2="248" y2="165" stroke="#C0BCB0" stroke-width="2" stroke-dasharray="7,5"/>
+  <!-- Black stripe side -->
+  <rect x="68" y="178" width="268" height="12" rx="0" fill="#1A1A1A" opacity="0.8"/>
+  <!-- Chuck 70 text -->
+  <text x="200" y="240" font-family="system-ui" font-size="10" fill="#888880" text-anchor="middle" letter-spacing="3">CHUCK 70 HI · EGRET/BLACK</text>
+</svg>

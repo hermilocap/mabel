@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#1C0A0A" rx="16"/>
+  <!-- Sole white/black -->
+  <ellipse cx="200" cy="222" rx="172" ry="25" fill="#2A2A2A" stroke="#1A1A1A" stroke-width="1.5"/>
+  <!-- Midsole white -->
+  <path d="M40 202 Q50 186 80 182 L320 182 Q360 182 368 200 Z" fill="#F5F5F0" stroke="#E8E8E4" stroke-width="1"/>
+  <!-- Upper - Black section top/back -->
+  <path d="M68 182 Q78 128 125 110 L278 104 Q336 104 350 136 L358 182 Z" fill="#111111" stroke="#1A1A1A" stroke-width="2"/>
+  <!-- Red side panel -->
+  <path d="M80 182 Q75 152 95 132 Q115 115 145 116 L270 110 Q325 112 342 140 L348 175 Q290 162 200 158 Q130 155 80 182Z" fill="#CC1010" stroke="#AA0A0A" stroke-width="1.5"/>
+  <!-- Black toe -->
+  <path d="M68 182 Q62 150 90 128 Q112 112 142 114 L155 114 Q118 142 105 168 L85 182Z" fill="#111111" stroke="#0A0A0A" stroke-width="1.5"/>
+  <!-- White collar/ankle -->
+  <path d="M155 118 Q152 102 155 92 Q160 84 170 86 Q180 89 175 104 L168 118Z" fill="#F5F5F0" stroke="#E0E0DC" stroke-width="1.5"/>
+  <!-- Nike Swoosh white -->
+  <path d="M138 162 Q185 132 305 140 Q275 155 205 160 Q168 164 138 162Z" fill="#FFFFFF" stroke="#EEEEEE" stroke-width="1"/>
+  <!-- Lace area black -->
+  <rect x="155" y="118" width="115" height="44" rx="3" fill="#111111" stroke="#222222" stroke-width="1"/>
+  <line x1="168" y1="125" x2="256" y2="125" stroke="#444444" stroke-width="2" stroke-dasharray="7,5"/>
+  <line x1="168" y1="133" x2="256" y2="133" stroke="#444444" stroke-width="2" stroke-dasharray="7,5"/>
+  <line x1="168" y1="141" x2="256" y2="141" stroke="#444444" stroke-width="2" stroke-dasharray="7,5"/>
+  <line x1="168" y1="149" x2="256" y2="149" stroke="#444444" stroke-width="2" stroke-dasharray="7,5"/>
+  <!-- Wings logo area -->
+  <text x="200" y="240" font-family="system-ui" font-size="10" fill="#CC1010" text-anchor="middle" letter-spacing="3">AIR JORDAN 1 MID · BLK/RED</text>
+</svg>

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sneaker-001",
+    "marca": "Nike",
+    "modelo": "Air Force 1 Low '07",
+    "precio_base": 1950.00,
+    "origen": "Americano (Importación Original)",
+    "color": "Triple White",
+    "tallas_disponibles": [24.0, 25.0, 25.5, 26.5, 27.0],
+    "imagen_svg_path": "assets/img/af1-white.svg",
+    "descripcion": "El clásico que nunca falla. Piel premium, suela Air original. Lote importado directamente de EE.UU.",
+    "pocas_piezas": false,
+    "drop_label": "Drop Semana"
+  },
+  {
+    "id": "sneaker-002",
+    "marca": "New Balance",
+    "modelo": "990v5 Made in USA",
+    "precio_base": 3200.00,
+    "origen": "Made in USA (Original)",
+    "color": "Grey/Navy",
+    "tallas_disponibles": [25.5, 27.0, 27.5],
+    "imagen_svg_path": "assets/img/nb990-grey.svg",
+    "descripcion": "Fabricado en Massachusetts. La calidad americana definitiva. Stock ultra-limitado.",
+    "pocas_piezas": true,
+    "drop_label": "Edición Limitada"
+  },
+  {
+    "id": "sneaker-003",
+    "marca": "Adidas",
+    "modelo": "Samba OG",
+    "precio_base": 1750.00,
+    "origen": "Americano (Importación Original)",
+    "color": "Black/White Gum",
+    "tallas_disponibles": [25.0],
+    "imagen_svg_path": "assets/img/samba-blk.svg",
+    "descripcion": "El ícono europeo en suelo americano. Talla única disponible. El que duda lo pierde.",
+    "pocas_piezas": true,
+    "drop_label": "Último Par"
+  },
+  {
+    "id": "sneaker-004",
+    "marca": "Jordan",
+    "modelo": "Air Jordan 1 Mid",
+    "precio_base": 2400.00,
+    "origen": "Americano (Importación Original)",
+    "color": "Black/Gym Red/White",
+    "tallas_disponibles": [24.0, 25.0, 26.0, 27.0, 28.0],
+    "imagen_svg_path": "assets/img/aj1-red.svg",
+    "descripcion": "Colorway OG sin modificaciones. Cuero premium, Swoosh bordado. Llegó el lote que esperabas.",
+    "pocas_piezas": false,
+    "drop_label": "Drop Exclusivo QRO"
+  },
+  {
+    "id": "sneaker-005",
+    "marca": "Converse",
+    "modelo": "Chuck 70 Hi",
+    "precio_base": 1350.00,
+    "origen": "Americano (Importación Original)",
+    "color": "Egret/Black",
+    "tallas_disponibles": [24.0, 25.0, 26.0],
+    "imagen_svg_path": "assets/img/chuck70-eg.svg",
+    "descripcion": "La versión premium del clásico. Lona más gruesa, interior acolchado. Sin intermediarios.",
+    "pocas_piezas": false,
+    "drop_label": null
+  }
+]
