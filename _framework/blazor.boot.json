@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "mabel",
   "resources": {
-    "hash": "sha256-FD+3kFBwGSG6PSsC6QZQfRQw7v9ehJfjFIIWFYlcZuM=",
+    "hash": "sha256-fpZfkkT+YkWUSgVMxkt/Mv8mf7JcTgLXE2sQrUG45iM=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-nElGk+CZFyq0PbPm4JU8avD6lER7x9Z1C54BK7qY12Q="
     },
@@ -50,7 +50,7 @@
       "System.Text.RegularExpressions.wasm": "sha256-NL5sBkQtOmwbpwZ0yb6AlsOfFlNN4wrT6EdNssIKLIg=",
       "System.Threading.wasm": "sha256-2XxvKK89Bd7ngzD6+eGOlxl/qOVaCHVkcFiCaBXXzTs=",
       "System.Private.CoreLib.wasm": "sha256-7QTZL6UsZPIzrRQOrJ04bCjSgUuhKbi/gTD2hXtn7JU=",
-      "mabel.wasm": "sha256-QubrXsE9gqenRUkgl6GJ9cZP/BVtJF9rydRf6mbRg9k="
+      "mabel.wasm": "sha256-4xT8pYT1RYIwUGV3zTjZZIf6dtcq2yNr5dA5kYKG2Mk="
     }
   },
   "cacheBootResources": true,
